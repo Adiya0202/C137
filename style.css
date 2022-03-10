@@ -1,0 +1,21 @@
+body {
+    font-family: 'Yeon Sung', cursive;
+    background-image: url("Background.png");
+    background-position: center;
+}
+h1 {
+    background: linear-gradient(lightpink 0%, lightcyan 100%);
+    margin-top:0px;
+    line-height: 2;
+}
+#footer{
+    background: linear-gradient(lightcyan 0%, lightpink 100%);
+    position: fixed;
+bottom: 0;
+width:100%;
+line-height: 2;
+font-size: 18px;
+}
+canvas{
+    margin-top: 120px;
+}
